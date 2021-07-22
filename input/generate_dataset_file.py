@@ -5,7 +5,7 @@ import os
 
 HAYSTACKPATH = '_haystack'
 NEEDLEPATH = '_needle'
-ADJUSTPATH = './dataset_list.csv'
+ADJUSTPATH = './dataset_file.csv'
 
 db_file3 = open(ADJUSTPATH, 'w')
 fieldnames = ['img1', 'img2', 'match']

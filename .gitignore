@@ -1,4 +1,5 @@
 venv/*
 input/_haystack
 input/_needle
+input/210722 DEEP_LEARNING_DATASET.zip
 .idea
